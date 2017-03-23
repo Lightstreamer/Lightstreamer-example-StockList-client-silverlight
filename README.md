@@ -7,7 +7,7 @@ This project contains a simple Silverlight version of the [Lightstreamer - Stock
 ## Live Demo
 
 [![screenshot](screen_silverlight_large.png)](http://demos.lightstreamer.com/Silverlight_StockListDemo)<br>
-###[![](http://demos.lightstreamer.com/site/img/play.png) View live demo](http://demos.lightstreamer.com/Silverlight_StockListDemo)<br>
+### [![](http://demos.lightstreamer.com/site/img/play.png) View live demo](http://demos.lightstreamer.com/Silverlight_StockListDemo)<br>
 
 ## Details
 
