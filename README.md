@@ -83,4 +83,4 @@ Then, to allow the page to get resources from a different server, the Web Server
 ## Lightstreamer Compatibility Notes
 
 * Compatible with Lightstreamer Silverlight Client Library version 1.4 or newer.
-* For Lightstreamer Allegro (+ Silverlight Client API support), Presto, Vivace.
+* Ensure that Silverlight Client API is supported by Lightstreamer Server license configuration.
